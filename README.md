@@ -10,7 +10,7 @@
 ## Todo
 对数据进行清洗，jieba分词，去停用词等等，建议用其他cnn模型试试
 希望有所收获！   
-
+注：其他赛题的 baseline 可以关注https://github.com/wushaowu2014?tab=repositories
 
 
 
