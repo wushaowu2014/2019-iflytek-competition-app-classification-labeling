@@ -12,5 +12,6 @@
 希望有所收获！   
 注：其他赛题的 baseline 可以关注https://github.com/wushaowu2014?tab=repositories
 
-
+# 更新......
+版本baseline1.py在baseline.py的基础上加入了分词操作，线上分数直接76+，目前直接进前五，此版本仅供参考，后续应该可以更高......
 
